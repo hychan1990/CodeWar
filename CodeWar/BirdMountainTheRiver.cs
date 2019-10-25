@@ -29,7 +29,7 @@ namespace CodeWar
         }
         private bool CheckFlowSpace(int[] pos, char[][] terrain)
         {
-
+            return true;
         }
     }
 }
